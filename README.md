@@ -1,15 +1,12 @@
 Iris Data Visualization
 Problem Statement:
-
-    Understanding data patterns is essential before performing machine learning. Data visualization helps identify trends, distributions, and relationships among features.
+Understanding data patterns is essential before performing machine learning. Data visualization helps identify trends, distributions, and relationships among features
 
 Objective:
-
-    Visualize patterns in the Iris Dataset using different visualization techniques.
+ Visualize patterns in the Iris Dataset using different visualization techniques.
 
 Dataset:
-
-    Iris Dataset
+  Iris Dataset
 
 Features:
     Sepal Length
