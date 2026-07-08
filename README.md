@@ -23,31 +23,23 @@ Tools Used:
 
 Visualizations Created:
     1. Bar Chart
-
-        Species distribution comparison.
-
+     Species distribution comparison.
     2. Histogram
-
-        Sepal Length distribution.
-
+     Sepal Length distribution.
     3. Scatter Plot
-
-        Petal Length vs Petal Width.
-
+     Petal Length vs Petal Width.
     4. Pair Plot
-
-        Feature comparison.
-
+     Feature comparison.
     5. Correlation Heatmap
-
-        Relationship among numerical features.
+     Relationship among numerical features.
 
 Key Findings:
     Setosa is clearly separated.
     Petal dimensions strongly influence classification.
     Petal Length and Petal Width are highly correlated.
-Data visualization reveals important feature patterns.
+    Data visualization reveals important feature patterns.
 
 Conclusion:
+     Visualization provides valuable insights and helps understand the structure of the Iris dataset.
 
-    Visualization provides valuable insights and helps understand the structure of the Iris dataset.
+   
